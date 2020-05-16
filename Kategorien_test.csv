@@ -1,30 +1,30 @@
 ﻿Bundesland;Kategorie;Name;technischer_name;Erlaubt;Zusatz
-Nordrhein-Westfalen;Sport;Schwimmbad;schwimmbad;False;Hallenbaeder ab 30.5. geoeffnet
-Nordrhein-Westfalen;Sport;Freizeitsport;freizeit;True;Joggen, Radfahren und weitere Outdoor Sportarten
+Nordrhein-Westfalen;Sport;Schwimmbad;schwimmbad;0;Hallenbaeder ab 30.5. geoeffnet
+Nordrhein-Westfalen;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten
 Nordrhein-Westfalen;Sport;Fitnessstudio;fitness;1;Hygieneregeln befolgen
 Nordrhein-Westfalen;Sport;Kontaktsport;kontakt;0;ab dem 30.5. erlaubt
-Nordrhein-Westfalen;Sport;Wettbewerb;wettbewerb;False;ab dem 30.5. erlaubt
-Nordrhein-Westfalen;Kultur;Open Air;openair;True;Konzerte und Theater bis max. 100 Personen
-Nordrhein-Westfalen;Kultur;Theater/ Oper;theater;False;ab dem 30.5. erlaubt
-Nordrhein-Westfalen;Kultur;Kinos;kino;False;ab dem 30.5. erlaubt
-Nordrhein-Westfalen;Kultur;Museen;museum;True;ohne Fuehrungen/Gruppen
-Nordrhein-Westfalen;Kultur;Gedenkstaetten;gedenk;True;Abstandsregeln befolgen
-Nordrhein-Westfalen;Kultur;Burgen / Schloesser;burg;True;Abstandsregeln befolgen
-Nordrhein-Westfalen;Kultur;Zoos;zoo;True;Abstandsregeln befolgen
-Nordrhein-Westfalen;Kultur;Gottesdienste;gottesdienst;True;eingeschraenkte Teilnehmerzahl
-Nordrhein-Westfalen;Bildungseinrichtungen;Schulen;schule;True;Sonderregulungen fuer verschiedene Jahrgangsstufen
-Nordrhein-Westfalen;Bildungseinrichtungen;Universität;uni;True;max. 100 Leute in einem Raum, aber findet meistens online statt
-Nordrhein-Westfalen;Bildungseinrichtungen;Fahrschulen;fahrschule;True;kein Mindestabstand notwendig
-Nordrhein-Westfalen;Bildungseinrichtungen;Bibliothek;bibilothek;True;eingeschraenkter Betrieb
-Nordrhein-Westfalen;Bildungseinrichtungen;Kitas;kita;True;Notfallbetrieb hat weiter Bestand
-Nordrhein-Westfalen;Oeffentliche Einrichtungen;Krankenhaus;krankenhaus;True;eingeschraenkter Besuch
-Nordrhein-Westfalen;Oeffentliche Einrichtungen;Spielplatz;spielplatz;True;Abstandsregeln befolgen
-Nordrhein-Westfalen;Oeffentliche Einrichtungen;Friedhoefe;friedhof;True;Abstandsregeln befolgen
-Nordrhein-Westfalen;Oeffentliche Einrichtungen;Parks;park;True;Abstandsregeln befolgen
-Nordrhein-Westfalen;Gastronomie;Cafe;cafe;True;Max. 50% Auslastung, max 2 Haushalte pro Tisch
-Nordrhein-Westfalen;Gastronomie;Restaurant;restaurant;True;Max. 50% Auslastung, max 2 Haushalte pro Tisch
-Nordrhein-Westfalen;Gastronomie;Eisdiele;eisdiele;True;Max. 50% Auslastung, max 2 Haushalte pro Tisch
-Nordrhein-Westfalen;Gastronomie;Mensa / Kantine;kantine;True;Hygieneregeln befolgen
+Nordrhein-Westfalen;Sport;Wettbewerb;wettbewerb;0;ab dem 30.5. erlaubt
+Nordrhein-Westfalen;Kultur;Open Air;openair;1;Konzerte und Theater bis max. 100 Personen
+Nordrhein-Westfalen;Kultur;Theater/ Oper;theater;0;ab dem 30.5. erlaubt
+Nordrhein-Westfalen;Kultur;Kinos;kino;0;ab dem 30.5. erlaubt
+Nordrhein-Westfalen;Kultur;Museen;museum;1;ohne Fuehrungen/Gruppen
+Nordrhein-Westfalen;Kultur;Gedenkstaetten;gedenk;1;Abstandsregeln befolgen
+Nordrhein-Westfalen;Kultur;Burgen / Schloesser;burg;1;Abstandsregeln befolgen
+Nordrhein-Westfalen;Kultur;Zoos;zoo;1;Abstandsregeln befolgen
+Nordrhein-Westfalen;Kultur;Gottesdienste;gottesdienst;1;eingeschraenkte Teilnehmerzahl
+Nordrhein-Westfalen;Bildungseinrichtungen;Schulen;schule;1;Sonderregulungen fuer verschiedene Jahrgangsstufen
+Nordrhein-Westfalen;Bildungseinrichtungen;Universität;uni;1;max. 100 Leute in einem Raum, aber findet meistens online statt
+Nordrhein-Westfalen;Bildungseinrichtungen;Fahrschulen;fahrschule;1;kein Mindestabstand notwendig
+Nordrhein-Westfalen;Bildungseinrichtungen;Bibliothek;bibilothek;1;eingeschraenkter Betrieb
+Nordrhein-Westfalen;Bildungseinrichtungen;Kitas;kita;1;Notfallbetrieb hat weiter Bestand
+Nordrhein-Westfalen;Oeffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschraenkter Besuch
+Nordrhein-Westfalen;Oeffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen
+Nordrhein-Westfalen;Oeffentliche Einrichtungen;Friedhoefe;friedhof;1;Abstandsregeln befolgen
+Nordrhein-Westfalen;Oeffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen
+Nordrhein-Westfalen;Gastronomie;Cafe;cafe;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
+Nordrhein-Westfalen;Gastronomie;Restaurant;restaurant;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
+Nordrhein-Westfalen;Gastronomie;Eisdiele;eisdiele;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
+Nordrhein-Westfalen;Gastronomie;Mensa / Kantine;kantine;1;Hygieneregeln befolgen
 Niedersachsen;Sport;Schwimmbad;schwimmbad;;
 Niedersachsen;Sport;Freizeitsport;freizeit;;
 Niedersachsen;Sport;Fitnessstudio;fitness;;
