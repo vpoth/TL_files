@@ -1,0 +1,53 @@
+﻿Bundesland;Kategorie;Name;Erlaubt;Zusatz
+Nordrhein-Westfalen;Sport;Schwimmbad;False;Hallenbaeder ab 30.5. geoeffnet
+Nordrhein-Westfalen;Sport;Freizeitsport;True;Joggen, Radfahren und weitere Outdoor Sportarten
+Nordrhein-Westfalen;Sport;Fitnessstudio;True;Hygieneregeln befolgen
+Nordrhein-Westfalen;Sport;Kontaktsport;False;ab dem 30.5. erlaubt
+Nordrhein-Westfalen;Sport;Wettbewerb;False;ab dem 30.5. erlaubt
+Nordrhein-Westfalen;Kultur;Open Air;True;Konzerte und Theater bis max. 100 Personen
+Nordrhein-Westfalen;Kultur;Theater/ Oper;False;ab dem 30.5. erlaubt
+Nordrhein-Westfalen;Kultur;Kinos;False;ab dem 30.5. erlaubt
+Nordrhein-Westfalen;Kultur;Museen;True;ohne Fuehrungen/Gruppen
+Nordrhein-Westfalen;Kultur;Gedenkstaetten;True;Abstandsregeln befolgen
+Nordrhein-Westfalen;Kultur;Burgen / Schloesser;True;Abstandsregeln befolgen
+Nordrhein-Westfalen;Kultur;Zoos;True;Abstandsregeln befolgen
+Nordrhein-Westfalen;Kultur;Gottesdienste;True;eingeschraenkte Teilnehmerzahl
+Nordrhein-Westfalen;Bildungseinrichtungen;Schulen;True;Sonderregulungen fuer verschiedene Jahrgangsstufen
+Nordrhein-Westfalen;Bildungseinrichtungen;Universität;True;max. 100 Leute in einem Raum, aber findet meistens online statt
+Nordrhein-Westfalen;Bildungseinrichtungen;Fahrschulen;True;kein Mindestabstand notwendig
+Nordrhein-Westfalen;Bildungseinrichtungen;Bibliothek;True;eingeschraenkter Betrieb
+Nordrhein-Westfalen;Bildungseinrichtungen;Kitas;True;Notfallbetrieb hat weiter Bestand
+Nordrhein-Westfalen;Öffentliche Einrichtungen;Krankenhaus;True;eingeschraenkter Besuch
+Nordrhein-Westfalen;Öffentliche Einrichtungen;Spielplatz;True;Abstandsregeln befolgen
+Nordrhein-Westfalen;Öffentliche Einrichtungen;Friedhoefe;True;Abstandsregeln befolgen
+Nordrhein-Westfalen;Öffentliche Einrichtungen;Parks;True;Abstandsregeln befolgen
+Nordrhein-Westfalen;Gastronomie;Cafe;True;Max. 50% Auslastung, max 2 Haushalte pro Tisch
+Nordrhein-Westfalen;Gastronomie;Restaurant;True;Max. 50% Auslastung, max 2 Haushalte pro Tisch
+Nordrhein-Westfalen;Gastronomie;Eisdiele;True;Max. 50% Auslastung, max 2 Haushalte pro Tisch
+Nordrhein-Westfalen;Gastronomie;Mensa / Kantine;True;Hygieneregeln befolgen
+Niedersachsen;Sport;Schwimmbad;;
+Niedersachsen;Sport;Freizeitsport;;
+Niedersachsen;Sport;Fitnessstudio;;
+Niedersachsen;Sport;Kontaktsport;;
+Niedersachsen;Sport;Wettbewerb;;
+Niedersachsen;Kultur;Open Air;;
+Niedersachsen;Kultur;Theater/ Oper;;
+Niedersachsen;Kultur;Kinos;;
+Niedersachsen;Kultur;Museen;;
+Niedersachsen;Kultur;Gedenkstaetten;;
+Niedersachsen;Kultur;Burgen / Schloesser;;
+Niedersachsen;Kultur;Zoos;;
+Niedersachsen;Kultur;Gottesdienste;;
+Niedersachsen;Bildungseinrichtungen;Schulen;;
+Niedersachsen;Bildungseinrichtungen;Universität;;
+Niedersachsen;Bildungseinrichtungen;Fahrschulen;;
+Niedersachsen;Bildungseinrichtungen;Bibliothek;;
+Niedersachsen;Bildungseinrichtungen;Kitas;;
+Niedersachsen;Öffentliche Einrichtungen;Krankenhaus;;
+Niedersachsen;Öffentliche Einrichtungen;Spielplatz;;
+Niedersachsen;Öffentliche Einrichtungen;Friedhoefe;;
+Niedersachsen;Öffentliche Einrichtungen;Parks;;
+Niedersachsen;Gastronomie;Cafe;;
+Niedersachsen;Gastronomie;Restaurant;;
+Niedersachsen;Gastronomie;Eisdiele;;
+Niedersachsen;Gastronomie;Mensa / Kantine;;
