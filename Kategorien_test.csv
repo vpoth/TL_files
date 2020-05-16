@@ -1,8 +1,8 @@
 ﻿Bundesland;Kategorie;Name;technischer_name;Erlaubt;Zusatz
 Nordrhein-Westfalen;Sport;Schwimmbad;schwimmbad;False;Hallenbaeder ab 30.5. geoeffnet
 Nordrhein-Westfalen;Sport;Freizeitsport;freizeit;True;Joggen, Radfahren und weitere Outdoor Sportarten
-Nordrhein-Westfalen;Sport;Fitnessstudio;fitness;True;Hygieneregeln befolgen
-Nordrhein-Westfalen;Sport;Kontaktsport;kontakt;False;ab dem 30.5. erlaubt
+Nordrhein-Westfalen;Sport;Fitnessstudio;fitness;1;Hygieneregeln befolgen
+Nordrhein-Westfalen;Sport;Kontaktsport;kontakt;0;ab dem 30.5. erlaubt
 Nordrhein-Westfalen;Sport;Wettbewerb;wettbewerb;False;ab dem 30.5. erlaubt
 Nordrhein-Westfalen;Kultur;Open Air;openair;True;Konzerte und Theater bis max. 100 Personen
 Nordrhein-Westfalen;Kultur;Theater/ Oper;theater;False;ab dem 30.5. erlaubt
