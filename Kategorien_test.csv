@@ -1,4 +1,7 @@
 ﻿Bundesland;Kategorie;Name;technischer_name;Erlaubt;Zusatz
+Nordrhein-Westfalen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;
+Nordrhein-Westfalen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;
+Nordrhein-Westfalen;Allgemeine Vorgaben;Einkaufen;einkaufen;1;
 Nordrhein-Westfalen;Sport;Schwimmbad;schwimmbad;0;Hallenbäder ab 30.5. geoeffnet, Freibäder ab 20.05., reine Spaßbäder geschlossen
 Nordrhein-Westfalen;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten
 Nordrhein-Westfalen;Sport;Fitnessstudio;fitness;1;Hygieneregeln befolgen
@@ -25,29 +28,32 @@ Nordrhein-Westfalen;Gastronomie;Cafe;cafe;1;Max. 50% Auslastung, max 2 Haushalte
 Nordrhein-Westfalen;Gastronomie;Restaurant;restaurant;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
 Nordrhein-Westfalen;Gastronomie;Eisdiele;eisdiele;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
 Nordrhein-Westfalen;Gastronomie;Mensa / Kantine;kantine;1;Hygieneregeln befolgen
-Niedersachsen;Sport;Schwimmbad;schwimmbad;;
-Niedersachsen;Sport;Freizeitsport;freizeit;;
-Niedersachsen;Sport;Fitnessstudio;fitness;;
-Niedersachsen;Sport;Kontaktsport;kontakt;;
-Niedersachsen;Sport;Wettbewerb;wettbewerb;;
-Niedersachsen;Kultur;Open Air;openair;;
-Niedersachsen;Kultur;Theater/ Oper;theater;;
-Niedersachsen;Kultur;Kinos;kino;;
-Niedersachsen;Kultur;Museen;museum;;
-Niedersachsen;Kultur;Gedenkstätten;gedenk;;
-Niedersachsen;Kultur;Burgen / Schlösser;burg;;
-Niedersachsen;Kultur;Zoos;zoo;;
-Niedersachsen;Kultur;Gottesdienste;gottesdienst;;
-Niedersachsen;Bildungseinrichtungen;Schulen;schule;;
-Niedersachsen;Bildungseinrichtungen;Universität;uni;;
-Niedersachsen;Bildungseinrichtungen;Fahrschulen;fahrschule;;
-Niedersachsen;Bildungseinrichtungen;Bibliothek;bibliothek;;
-Niedersachsen;Bildungseinrichtungen;Kitas;kita;;
-Niedersachsen;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;;
-Niedersachsen;Öffentliche Einrichtungen;Spielplatz;spielplatz;;
-Niedersachsen;Öffentliche Einrichtungen;Friedhöfe;friedhof;;
-Niedersachsen;Öffentliche Einrichtungen;Parks;park;;
-Niedersachsen;Gastronomie;Cafe;cafe;;
-Niedersachsen;Gastronomie;Restaurant;restaurant;;
-Niedersachsen;Gastronomie;Eisdiele;eisdiele;;
-Niedersachsen;Gastronomie;Mensa / Kantine;kantine;;
+Niedersachsen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;
+Niedersachsen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;
+Niedersachsen;Allgemeine Vorgaben;Einkaufen;einkaufen;1;
+Niedersachsen;Sport;Schwimmbad;schwimmbad;0;bis auf weiteres geschlossen
+Niedersachsen;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten
+Niedersachsen;Sport;Fitnessstudio;fitness;0;bis auf weiteres geschlossen
+Niedersachsen;Sport;Kontaktsport;kontakt;0;bis auf weiteres verboten
+Niedersachsen;Sport;Wettbewerb;wettbewerb;0;bis auf weiteres verboten
+Niedersachsen;Kultur;Open Air;openair;0;bis auf weiteres verboten
+Niedersachsen;Kultur;Theater/ Oper;theater;0;bis auf weiteres geschlossen
+Niedersachsen;Kultur;Kinos;kino;0;bis auf weiteres geschlossen
+Niedersachsen;Kultur;Museen;museum;1;Abstandsregeln befolgen
+Niedersachsen;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen
+Niedersachsen;Kultur;Burgen / Schlösser;burg;1;Abstandsregeln befolgen
+Niedersachsen;Kultur;Zoos;zoo;1;Abstandsregeln befolgen
+Niedersachsen;Kultur;Gottesdienste;gottesdienst;1;eingeschraenkte Teilnehmerzahl
+Niedersachsen;Bildungseinrichtungen;Schulen;schule;1;Sonderregulungen fuer verschiedene Jahrgangsstufen
+Niedersachsen;Bildungseinrichtungen;Universität;uni;1;max. 100 Leute in einem Raum, aber findet meistens online statt
+Niedersachsen;Bildungseinrichtungen;Fahrschulen;fahrschule;1;mit Mundschutz erlaubt
+Niedersachsen;Bildungseinrichtungen;Bibliothek;bibliothek;1;Abstandsregeln befolgen
+Niedersachsen;Bildungseinrichtungen;Kitas;kita;0;Notfallbetrieb hat weiter Bestand
+Niedersachsen;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschraenkter Besuch
+Niedersachsen;Öffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen
+Niedersachsen;Öffentliche Einrichtungen;Friedhöfe;friedhof;1;Abstandsregeln befolgen
+Niedersachsen;Öffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen
+Niedersachsen;Gastronomie;Cafe;cafe;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
+Niedersachsen;Gastronomie;Restaurant;restaurant;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
+Niedersachsen;Gastronomie;Eisdiele;eisdiele;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
+Niedersachsen;Gastronomie;Mensa / Kantine;kantine;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
