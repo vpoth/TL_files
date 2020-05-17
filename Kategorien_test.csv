@@ -1,5 +1,5 @@
 ﻿Bundesland;Kategorie;Name;technischer_name;Erlaubt;Zusatz
-Nordrhein-Westfalen;Sport;Schwimmbad;schwimmbad;0;Hallenbaeder ab 30.5. geoeffnet
+Nordrhein-Westfalen;Sport;Schwimmbad;schwimmbad;0;Hallenbäder ab 30.5. geoeffnet
 Nordrhein-Westfalen;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten
 Nordrhein-Westfalen;Sport;Fitnessstudio;fitness;1;Hygieneregeln befolgen
 Nordrhein-Westfalen;Sport;Kontaktsport;kontakt;0;ab dem 30.5. erlaubt
@@ -8,19 +8,19 @@ Nordrhein-Westfalen;Kultur;Open Air;openair;1;Konzerte und Theater bis max. 100 
 Nordrhein-Westfalen;Kultur;Theater/ Oper;theater;0;ab dem 30.5. erlaubt
 Nordrhein-Westfalen;Kultur;Kinos;kino;0;ab dem 30.5. erlaubt
 Nordrhein-Westfalen;Kultur;Museen;museum;1;ohne Führungen/Gruppen
-Nordrhein-Westfalen;Kultur;Gedenkstaetten;gedenk;1;Abstandsregeln befolgen
+Nordrhein-Westfalen;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen
 Nordrhein-Westfalen;Kultur;Burgen / Schloesser;burg;1;Abstandsregeln befolgen
 Nordrhein-Westfalen;Kultur;Zoos;zoo;1;Abstandsregeln befolgen
-Nordrhein-Westfalen;Kultur;Gottesdienste;gottesdienst;1;eingeschraenkte Teilnehmerzahl
+Nordrhein-Westfalen;Kultur;Gottesdienste;gottesdienst;1;eingeschränkte Teilnehmerzahl
 Nordrhein-Westfalen;Bildungseinrichtungen;Schulen;schule;1;Sonderregulungen fuer verschiedene Jahrgangsstufen
 Nordrhein-Westfalen;Bildungseinrichtungen;Universität;uni;1;max. 100 Leute in einem Raum, aber findet meistens online statt
 Nordrhein-Westfalen;Bildungseinrichtungen;Fahrschulen;fahrschule;1;kein Mindestabstand notwendig
-Nordrhein-Westfalen;Bildungseinrichtungen;Bibliothek;bibliothek;1;eingeschraenkter Betrieb
+Nordrhein-Westfalen;Bildungseinrichtungen;Bibliothek;bibliothek;1;eingeschränkter Betrieb
 Nordrhein-Westfalen;Bildungseinrichtungen;Kitas;kita;1;Notfallbetrieb hat weiter Bestand
-Nordrhein-Westfalen;Oeffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschraenkter Besuch
-Nordrhein-Westfalen;Oeffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen
-Nordrhein-Westfalen;Oeffentliche Einrichtungen;Friedhoefe;friedhof;1;Abstandsregeln befolgen
-Nordrhein-Westfalen;Oeffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen
+Nordrhein-Westfalen;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschränkter Besuch
+Nordrhein-Westfalen;Öffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen
+Nordrhein-Westfalen;Öffentliche Einrichtungen;Friedhöfe;friedhof;1;Abstandsregeln befolgen
+Nordrhein-Westfalen;Öffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen
 Nordrhein-Westfalen;Gastronomie;Cafe;cafe;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
 Nordrhein-Westfalen;Gastronomie;Restaurant;restaurant;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
 Nordrhein-Westfalen;Gastronomie;Eisdiele;eisdiele;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
@@ -34,8 +34,8 @@ Niedersachsen;Kultur;Open Air;openair;;
 Niedersachsen;Kultur;Theater/ Oper;theater;;
 Niedersachsen;Kultur;Kinos;kino;;
 Niedersachsen;Kultur;Museen;museum;;
-Niedersachsen;Kultur;Gedenkstaetten;gedenk;;
-Niedersachsen;Kultur;Burgen / Schloesser;burg;;
+Niedersachsen;Kultur;Gedenkstätten;gedenk;;
+Niedersachsen;Kultur;Burgen / Schlösser;burg;;
 Niedersachsen;Kultur;Zoos;zoo;;
 Niedersachsen;Kultur;Gottesdienste;gottesdienst;;
 Niedersachsen;Bildungseinrichtungen;Schulen;schule;;
@@ -43,10 +43,10 @@ Niedersachsen;Bildungseinrichtungen;Universität;uni;;
 Niedersachsen;Bildungseinrichtungen;Fahrschulen;fahrschule;;
 Niedersachsen;Bildungseinrichtungen;Bibliothek;bibliothek;;
 Niedersachsen;Bildungseinrichtungen;Kitas;kita;;
-Niedersachsen;Oeffentliche Einrichtungen;Krankenhaus;krankenhaus;;
-Niedersachsen;Oeffentliche Einrichtungen;Spielplatz;spielplatz;;
-Niedersachsen;Oeffentliche Einrichtungen;Friedhoefe;friedhof;;
-Niedersachsen;Oeffentliche Einrichtungen;Parks;park;;
+Niedersachsen;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;;
+Niedersachsen;Öffentliche Einrichtungen;Spielplatz;spielplatz;;
+Niedersachsen;Öffentliche Einrichtungen;Friedhöfe;friedhof;;
+Niedersachsen;Öffentliche Einrichtungen;Parks;park;;
 Niedersachsen;Gastronomie;Cafe;cafe;;
 Niedersachsen;Gastronomie;Restaurant;restaurant;;
 Niedersachsen;Gastronomie;Eisdiele;eisdiele;;
