@@ -1,5 +1,5 @@
-﻿Bundesland;Kategorie;Name;technischer_name;Erlaubt;Zusatz
-Nordrhein-Westfalen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht
+﻿Bundesland;Kategorie;Name;technischer_name;Erlaubt;Zusatz;Stand
+Nordrhein-Westfalen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;13.05.2020(TESTVALUE)
 Nordrhein-Westfalen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten
 Nordrhein-Westfalen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hände waschen, Niesetikette)
 Nordrhein-Westfalen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden
