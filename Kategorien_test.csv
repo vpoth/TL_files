@@ -1,7 +1,7 @@
 ﻿Bundesland;Kategorie;Name;technischer_name;Erlaubt;Zusatz
 Nordrhein-Westfalen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht
 Nordrhein-Westfalen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten
-Nordrhein-Westfalen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hande waschen)
+Nordrhein-Westfalen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hände waschen, Niesetikette)
 Nordrhein-Westfalen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden
 Nordrhein-Westfalen;Allgemeine Vorgaben;Einkaufen;einkaufen;1;Maske muss beim Einkaufen getragen werden
 Nordrhein-Westfalen;Sport;Schwimmbad;schwimmbad;0;Hallenbäder ab 30.5. geoeffnet, Freibäder ab 20.05., reine Spaßbäder geschlossen
@@ -32,7 +32,7 @@ Nordrhein-Westfalen;Gastronomie;Eisdiele;eisdiele;1;Max. 50% Auslastung, max 2 H
 Nordrhein-Westfalen;Gastronomie;Mensa / Kantine;kantine;1;Hygieneregeln befolgen
 Niedersachsen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht
 Niedersachsen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten
-Niedersachsen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hande waschen)
+Niedersachsen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hände waschen, Niesetikette)
 Niedersachsen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden
 Niedersachsen;Allgemeine Vorgaben;Einkaufen;einkaufen;0;Maske muss nicht beim Einkaufen getragen werden (test)
 Niedersachsen;Sport;Schwimmbad;schwimmbad;0;bis auf weiteres geschlossen
