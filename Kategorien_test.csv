@@ -1,17 +1,17 @@
 ﻿Bundesland;Kategorie;Name;technischer_name;Erlaubt;Zusatz;Stand
 Nordrhein-Westfalen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;13.05.2020(TESTVALUE)
-Nordrhein-Westfalen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten
-Nordrhein-Westfalen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hände waschen, Niesetikette)
-Nordrhein-Westfalen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden
-Nordrhein-Westfalen;Allgemeine Vorgaben;Einkaufen;einkaufen;1;Maske muss beim Einkaufen getragen werden
-Nordrhein-Westfalen;Sport;Schwimmbad;schwimmbad;0;Hallenbäder ab 30.5. geoeffnet, Freibäder ab 20.05., reine Spaßbäder geschlossen
-Nordrhein-Westfalen;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten
-Nordrhein-Westfalen;Sport;Fitnessstudio;fitness;1;Hygieneregeln befolgen
-Nordrhein-Westfalen;Sport;Kontaktsport;kontakt;0;ab dem 30.5. erlaubt
-Nordrhein-Westfalen;Sport;Wettbewerb;wettbewerb;0;ab dem 30.5. erlaubt
-Nordrhein-Westfalen;Kultur;Open Air;openair;1;Konzerte und Theater bis max. 100 Personen
-Nordrhein-Westfalen;Kultur;Theater/ Oper;theater;0;ab dem 30.5. erlaubt
-Nordrhein-Westfalen;Kultur;Kinos;kino;0;ab dem 30.5. erlaubt
+Nordrhein-Westfalen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten;13.05.2020(TESTVALUE)
+Nordrhein-Westfalen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hände waschen, Niesetikette);13.05.2020(TESTVALUE)
+Nordrhein-Westfalen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden;13.05.2020(TESTVALUE)
+Nordrhein-Westfalen;Allgemeine Vorgaben;Einkaufen;einkaufen;1;Maske muss beim Einkaufen getragen werden;13.05.2020(TESTVALUE)
+Nordrhein-Westfalen;Sport;Schwimmbad;schwimmbad;0;Hallenbäder ab 30.5. geoeffnet, Freibäder ab 20.05., reine Spaßbäder geschlossen;13.05.2020(TESTVALUE)
+Nordrhein-Westfalen;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten;13.05.2020(TESTVALUE)
+Nordrhein-Westfalen;Sport;Fitnessstudio;fitness;1;Hygieneregeln befolgen;13.05.2020(TESTVALUE)
+Nordrhein-Westfalen;Sport;Kontaktsport;kontakt;0;ab dem 30.5. erlaubt;13.05.2020(TESTVALUE)
+Nordrhein-Westfalen;Sport;Wettbewerb;wettbewerb;0;ab dem 30.5. erlaubt;13.05.2020(TESTVALUE)
+Nordrhein-Westfalen;Kultur;Open Air;openair;1;Konzerte und Theater bis max. 100 Personen;13.05.2020(TESTVALUE)
+Nordrhein-Westfalen;Kultur;Theater/ Oper;theater;0;ab dem 30.5. erlaubt;13.05.2020(TESTVALUE)
+Nordrhein-Westfalen;Kultur;Kinos;kino;0;ab dem 30.5. erlaubt;13.05.2020(TESTVALUE)
 Nordrhein-Westfalen;Kultur;Museen;museum;1;ohne Führungen/Gruppen
 Nordrhein-Westfalen;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen
 Nordrhein-Westfalen;Kultur;Burgen / Schloesser;burg;1;Abstandsregeln befolgen
@@ -61,3 +61,34 @@ Niedersachsen;Gastronomie;Cafe;cafe;1;Max. 50% Auslastung, max 2 Haushalte pro T
 Niedersachsen;Gastronomie;Restaurant;restaurant;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
 Niedersachsen;Gastronomie;Eisdiele;eisdiele;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
 Niedersachsen;Gastronomie;Mensa / Kantine;kantine;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
+Rheinland-Pfalz;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;18.05.2020
+Rheinland-Pfalz;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten;18.05.2020
+Rheinland-Pfalz;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hande waschen);18.05.2020
+Rheinland-Pfalz;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden;18.05.2020
+Rheinland-Pfalz;Allgemeine Vorgaben;Einkaufen;einkaufen;0;Maske muss nicht beim Einkaufen getragen werden (test);18.05.2020
+Rheinland-Pfalz;Sport;Schwimmbad;schwimmbad;0;bis auf weiteres geschlossen;18.05.2020
+Rheinland-Pfalz;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten;18.05.2020
+Rheinland-Pfalz;Sport;Fitnessstudio;fitness;0;bis auf weiteres geschlossen;18.05.2020
+Rheinland-Pfalz;Sport;Kontaktsport;kontakt;0;bis auf weiteres verboten;18.05.2020
+Rheinland-Pfalz;Sport;Wettbewerb;wettbewerb;0;bis auf weiteres verboten;18.05.2020
+Rheinland-Pfalz;Kultur;Open Air;openair;;bis auf weiteres verboten;18.05.2020
+Rheinland-Pfalz;Kultur;Theater/ Oper;theater;0;bis auf weiteres geschlossen;18.05.2020
+Rheinland-Pfalz;Kultur;Kinos;kino;0;bis auf weiteres geschlossen;18.05.2020
+Rheinland-Pfalz;Kultur;Museen;museum;1;Abstandsregeln befolgen;18.05.2020
+Rheinland-Pfalz;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen;18.05.2020
+Rheinland-Pfalz;Kultur;Burgen / Schlösser;burg;1;Abstandsregeln befolgen;18.05.2020
+Rheinland-Pfalz;Kultur;Zoos;zoo;1;Abstandsregeln befolgen;18.05.2020
+Rheinland-Pfalz;Kultur;Gottesdienste;gottesdienst;1;Teilnahme nur mit Anmeldung;18.05.2020
+Rheinland-Pfalz;Bildungseinrichtungen;Schulen;schule;1;Sonderregulungen fuer verschiedene Jahrgangsstufen;18.05.2020
+Rheinland-Pfalz;Bildungseinrichtungen;Universität;uni;1;max. 1 Person auf 10 qm, aber findet meistens online statt;18.05.2020
+Rheinland-Pfalz;Bildungseinrichtungen;Fahrschulen;fahrschule;1;mit Mundschutz erlaubt;18.05.2020
+Rheinland-Pfalz;Bildungseinrichtungen;Bibliothek;bibliothek;1;Abstandsregeln befolgen;18.05.2020
+Rheinland-Pfalz;Bildungseinrichtungen;Kitas;kita;0;Notfallbetrieb hat weiter Bestand;18.05.2020
+Rheinland-Pfalz;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschraenkter Besuch;18.05.2020
+Rheinland-Pfalz;Öffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen;18.05.2020
+Rheinland-Pfalz;Öffentliche Einrichtungen;Friedhöfe;friedhof;1;Abstandsregeln befolgen;18.05.2020
+Rheinland-Pfalz;Öffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen;18.05.2020
+Rheinland-Pfalz;Gastronomie;Cafe;cafe;1;Bewirtung nur an Tischen mit Reservierungspflicht;18.05.2020
+Rheinland-Pfalz;Gastronomie;Restaurant;restaurant;1;Bewirtung nur an Tischen mit Reservierungspflicht;18.05.2020
+Rheinland-Pfalz;Gastronomie;Eisdiele;eisdiele;1;Bewirtung nur an Tischen mit Reservierungspflicht;18.05.2020
+Rheinland-Pfalz;Gastronomie;Mensa / Kantine;kantine;1;nur eingeschränkte Kapazitäten erlaubt;18.05.2020
