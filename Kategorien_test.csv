@@ -1,66 +1,66 @@
 ﻿Bundesland;Kategorie;Name;technischer_name;Erlaubt;Zusatz;Stand
-Nordrhein-Westfalen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;13.05.2020(TESTVALUE)
-Nordrhein-Westfalen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten;13.05.2020(TESTVALUE)
-Nordrhein-Westfalen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hände waschen, Niesetikette);13.05.2020(TESTVALUE)
-Nordrhein-Westfalen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden;13.05.2020(TESTVALUE)
-Nordrhein-Westfalen;Allgemeine Vorgaben;Einkaufen;einkaufen;1;Maske muss beim Einkaufen getragen werden;13.05.2020(TESTVALUE)
-Nordrhein-Westfalen;Sport;Schwimmbad;schwimmbad;0;Hallenbäder ab 30.5. geoeffnet, Freibäder ab 20.05., reine Spaßbäder geschlossen;13.05.2020(TESTVALUE)
-Nordrhein-Westfalen;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten;13.05.2020(TESTVALUE)
-Nordrhein-Westfalen;Sport;Fitnessstudio;fitness;1;Hygieneregeln befolgen;13.05.2020(TESTVALUE)
-Nordrhein-Westfalen;Sport;Kontaktsport;kontakt;0;ab dem 30.5. erlaubt;13.05.2020(TESTVALUE)
-Nordrhein-Westfalen;Sport;Wettbewerb;wettbewerb;0;ab dem 30.5. erlaubt;13.05.2020(TESTVALUE)
-Nordrhein-Westfalen;Kultur;Open Air;openair;1;Konzerte und Theater bis max. 100 Personen;13.05.2020(TESTVALUE)
-Nordrhein-Westfalen;Kultur;Theater/ Oper;theater;0;ab dem 30.5. erlaubt;13.05.2020(TESTVALUE)
-Nordrhein-Westfalen;Kultur;Kinos;kino;0;ab dem 30.5. erlaubt;13.05.2020(TESTVALUE)
-Nordrhein-Westfalen;Kultur;Museen;museum;1;ohne Führungen/Gruppen
-Nordrhein-Westfalen;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen
-Nordrhein-Westfalen;Kultur;Burgen / Schloesser;burg;1;Abstandsregeln befolgen
-Nordrhein-Westfalen;Kultur;Zoos;zoo;1;Abstandsregeln befolgen
-Nordrhein-Westfalen;Kultur;Gottesdienste;gottesdienst;1;eingeschränkte Teilnehmerzahl
-Nordrhein-Westfalen;Bildungseinrichtungen;Schulen;schule;1;Sonderregulungen fuer verschiedene Jahrgangsstufen
-Nordrhein-Westfalen;Bildungseinrichtungen;Universität;uni;1;max. 100 Leute in einem Raum, aber findet meistens online statt
-Nordrhein-Westfalen;Bildungseinrichtungen;Fahrschulen;fahrschule;1;kein Mindestabstand notwendig
-Nordrhein-Westfalen;Bildungseinrichtungen;Bibliothek;bibliothek;1;eingeschränkter Betrieb
-Nordrhein-Westfalen;Bildungseinrichtungen;Kitas;kita;1;Notfallbetrieb hat weiter Bestand
-Nordrhein-Westfalen;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschränkter Besuch
-Nordrhein-Westfalen;Öffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen
-Nordrhein-Westfalen;Öffentliche Einrichtungen;Friedhöfe;friedhof;1;Abstandsregeln befolgen
-Nordrhein-Westfalen;Öffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen
-Nordrhein-Westfalen;Gastronomie;Cafe;cafe;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
-Nordrhein-Westfalen;Gastronomie;Restaurant;restaurant;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
-Nordrhein-Westfalen;Gastronomie;Eisdiele;eisdiele;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
-Nordrhein-Westfalen;Gastronomie;Mensa / Kantine;kantine;1;Hygieneregeln befolgen
-Niedersachsen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht
-Niedersachsen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten
-Niedersachsen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hände waschen, Niesetikette)
-Niedersachsen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden
-Niedersachsen;Allgemeine Vorgaben;Einkaufen;einkaufen;0;Maske muss nicht beim Einkaufen getragen werden (test)
-Niedersachsen;Sport;Schwimmbad;schwimmbad;0;bis auf weiteres geschlossen
-Niedersachsen;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten
-Niedersachsen;Sport;Fitnessstudio;fitness;0;bis auf weiteres geschlossen
-Niedersachsen;Sport;Kontaktsport;kontakt;0;bis auf weiteres verboten
-Niedersachsen;Sport;Wettbewerb;wettbewerb;0;bis auf weiteres verboten
-Niedersachsen;Kultur;Open Air;openair;0;bis auf weiteres verboten
-Niedersachsen;Kultur;Theater/ Oper;theater;0;bis auf weiteres geschlossen
-Niedersachsen;Kultur;Kinos;kino;0;bis auf weiteres geschlossen
-Niedersachsen;Kultur;Museen;museum;1;Abstandsregeln befolgen
-Niedersachsen;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen
-Niedersachsen;Kultur;Burgen / Schlösser;burg;1;Abstandsregeln befolgen
-Niedersachsen;Kultur;Zoos;zoo;1;Abstandsregeln befolgen
-Niedersachsen;Kultur;Gottesdienste;gottesdienst;1;eingeschraenkte Teilnehmerzahl
-Niedersachsen;Bildungseinrichtungen;Schulen;schule;1;Sonderregulungen fuer verschiedene Jahrgangsstufen
-Niedersachsen;Bildungseinrichtungen;Universität;uni;1;max. 100 Leute in einem Raum, aber findet meistens online statt
-Niedersachsen;Bildungseinrichtungen;Fahrschulen;fahrschule;1;mit Mundschutz erlaubt
-Niedersachsen;Bildungseinrichtungen;Bibliothek;bibliothek;1;Abstandsregeln befolgen
-Niedersachsen;Bildungseinrichtungen;Kitas;kita;0;Notfallbetrieb hat weiter Bestand
-Niedersachsen;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschraenkter Besuch
-Niedersachsen;Öffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen
-Niedersachsen;Öffentliche Einrichtungen;Friedhöfe;friedhof;1;Abstandsregeln befolgen
-Niedersachsen;Öffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen
-Niedersachsen;Gastronomie;Cafe;cafe;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
-Niedersachsen;Gastronomie;Restaurant;restaurant;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
-Niedersachsen;Gastronomie;Eisdiele;eisdiele;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
-Niedersachsen;Gastronomie;Mensa / Kantine;kantine;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch
+Nordrhein-Westfalen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;13.05.2020
+Nordrhein-Westfalen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten;13.05.2020
+Nordrhein-Westfalen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hande waschen);13.05.2020
+Nordrhein-Westfalen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden;13.05.2020
+Nordrhein-Westfalen;Allgemeine Vorgaben;Einkaufen;einkaufen;1;Maske muss beim Einkaufen getragen werden;13.05.2020
+Nordrhein-Westfalen;Sport;Schwimmbad;schwimmbad;0;Hallenbäder ab 30.5. geoeffnet, Freibäder ab 20.05., reine Spaßbäder geschlossen;13.05.2020
+Nordrhein-Westfalen;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten;13.05.2020
+Nordrhein-Westfalen;Sport;Fitnessstudio;fitness;1;Hygieneregeln befolgen;13.05.2020
+Nordrhein-Westfalen;Sport;Kontaktsport;kontakt;0;ab dem 30.5. erlaubt;13.05.2020
+Nordrhein-Westfalen;Sport;Wettbewerb;wettbewerb;0;ab dem 30.5. erlaubt;13.05.2020
+Nordrhein-Westfalen;Kultur;Open Air;openair;1;Konzerte und Theater bis max. 100 Personen;13.05.2020
+Nordrhein-Westfalen;Kultur;Theater/ Oper;theater;0;ab dem 30.5. erlaubt;13.05.2020
+Nordrhein-Westfalen;Kultur;Kinos;kino;0;ab dem 30.5. erlaubt;13.05.2020
+Nordrhein-Westfalen;Kultur;Museen;museum;1;ohne Führungen/Gruppen;13.05.2020
+Nordrhein-Westfalen;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen;13.05.2020
+Nordrhein-Westfalen;Kultur;Burgen / Schloesser;burg;1;Abstandsregeln befolgen;13.05.2020
+Nordrhein-Westfalen;Kultur;Zoos;zoo;1;Abstandsregeln befolgen;13.05.2020
+Nordrhein-Westfalen;Kultur;Gottesdienste;gottesdienst;1;eingeschränkte Teilnehmerzahl;13.05.2020
+Nordrhein-Westfalen;Bildungseinrichtungen;Schulen;schule;1;Sonderregulungen fuer verschiedene Jahrgangsstufen;13.05.2020
+Nordrhein-Westfalen;Bildungseinrichtungen;Universität;uni;1;max. 100 Leute in einem Raum, aber findet meistens online statt;13.05.2020
+Nordrhein-Westfalen;Bildungseinrichtungen;Fahrschulen;fahrschule;1;kein Mindestabstand notwendig;13.05.2020
+Nordrhein-Westfalen;Bildungseinrichtungen;Bibliothek;bibliothek;1;eingeschränkter Betrieb;13.05.2020
+Nordrhein-Westfalen;Bildungseinrichtungen;Kitas;kita;1;Notfallbetrieb hat weiter Bestand;13.05.2020
+Nordrhein-Westfalen;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschränkter Besuch;13.05.2020
+Nordrhein-Westfalen;Öffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen;13.05.2020
+Nordrhein-Westfalen;Öffentliche Einrichtungen;Friedhöfe;friedhof;1;Abstandsregeln befolgen;13.05.2020
+Nordrhein-Westfalen;Öffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen;13.05.2020
+Nordrhein-Westfalen;Gastronomie;Cafe;cafe;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;13.05.2020
+Nordrhein-Westfalen;Gastronomie;Restaurant;restaurant;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;13.05.2020
+Nordrhein-Westfalen;Gastronomie;Eisdiele;eisdiele;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;13.05.2020
+Nordrhein-Westfalen;Gastronomie;Mensa / Kantine;kantine;1;Hygieneregeln befolgen;13.05.2020
+Niedersachsen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;13.05.2020
+Niedersachsen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten;17.05.2020
+Niedersachsen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hande waschen);17.05.2020
+Niedersachsen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden;17.05.2020
+Niedersachsen;Allgemeine Vorgaben;Einkaufen;einkaufen;0;Maske muss nicht beim Einkaufen getragen werden (test);17.05.2020
+Niedersachsen;Sport;Schwimmbad;schwimmbad;0;bis auf weiteres geschlossen;17.05.2020
+Niedersachsen;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten;17.05.2020
+Niedersachsen;Sport;Fitnessstudio;fitness;0;bis auf weiteres geschlossen;17.05.2020
+Niedersachsen;Sport;Kontaktsport;kontakt;0;bis auf weiteres verboten;17.05.2020
+Niedersachsen;Sport;Wettbewerb;wettbewerb;0;bis auf weiteres verboten;17.05.2020
+Niedersachsen;Kultur;Open Air;openair;0;bis auf weiteres verboten;17.05.2020
+Niedersachsen;Kultur;Theater/ Oper;theater;0;bis auf weiteres geschlossen;17.05.2020
+Niedersachsen;Kultur;Kinos;kino;0;bis auf weiteres geschlossen;17.05.2020
+Niedersachsen;Kultur;Museen;museum;1;Abstandsregeln befolgen;17.05.2020
+Niedersachsen;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen;17.05.2020
+Niedersachsen;Kultur;Burgen / Schloesser;burg;1;Abstandsregeln befolgen;17.05.2020
+Niedersachsen;Kultur;Zoos;zoo;1;Abstandsregeln befolgen;17.05.2020
+Niedersachsen;Kultur;Gottesdienste;gottesdienst;1;eingeschraenkte Teilnehmerzahl;17.05.2020
+Niedersachsen;Bildungseinrichtungen;Schulen;schule;1;Sonderregulungen fuer verschiedene Jahrgangsstufen;17.05.2020
+Niedersachsen;Bildungseinrichtungen;Universität;uni;1;max. 100 Leute in einem Raum, aber findet meistens online statt;17.05.2020
+Niedersachsen;Bildungseinrichtungen;Fahrschulen;fahrschule;1;mit Mundschutz erlaubt;17.05.2020
+Niedersachsen;Bildungseinrichtungen;Bibliothek;bibliothek;1;Abstandsregeln befolgen;17.05.2020
+Niedersachsen;Bildungseinrichtungen;Kitas;kita;0;Notfallbetrieb hat weiter Bestand;17.05.2020
+Niedersachsen;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschraenkter Besuch;17.05.2020
+Niedersachsen;Öffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen;17.05.2020
+Niedersachsen;Öffentliche Einrichtungen;Friedhöfe;friedhof;1;Abstandsregeln befolgen;17.05.2020
+Niedersachsen;Öffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen;17.05.2020
+Niedersachsen;Gastronomie;Cafe;cafe;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;17.05.2020
+Niedersachsen;Gastronomie;Restaurant;restaurant;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;17.05.2020
+Niedersachsen;Gastronomie;Eisdiele;eisdiele;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;17.05.2020
+Niedersachsen;Gastronomie;Mensa / Kantine;kantine;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;17.05.2020
 Rheinland-Pfalz;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;18.05.2020
 Rheinland-Pfalz;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten;18.05.2020
 Rheinland-Pfalz;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hande waschen);18.05.2020
@@ -76,7 +76,7 @@ Rheinland-Pfalz;Kultur;Theater/ Oper;theater;0;bis auf weiteres geschlossen;18.0
 Rheinland-Pfalz;Kultur;Kinos;kino;0;bis auf weiteres geschlossen;18.05.2020
 Rheinland-Pfalz;Kultur;Museen;museum;1;Abstandsregeln befolgen;18.05.2020
 Rheinland-Pfalz;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen;18.05.2020
-Rheinland-Pfalz;Kultur;Burgen / Schlösser;burg;1;Abstandsregeln befolgen;18.05.2020
+Rheinland-Pfalz;Kultur;Burgen / Schloesser;burg;1;Abstandsregeln befolgen;18.05.2020
 Rheinland-Pfalz;Kultur;Zoos;zoo;1;Abstandsregeln befolgen;18.05.2020
 Rheinland-Pfalz;Kultur;Gottesdienste;gottesdienst;1;Teilnahme nur mit Anmeldung;18.05.2020
 Rheinland-Pfalz;Bildungseinrichtungen;Schulen;schule;1;Sonderregulungen fuer verschiedene Jahrgangsstufen;18.05.2020
@@ -92,3 +92,65 @@ Rheinland-Pfalz;Gastronomie;Cafe;cafe;1;Bewirtung nur an Tischen mit Reservierun
 Rheinland-Pfalz;Gastronomie;Restaurant;restaurant;1;Bewirtung nur an Tischen mit Reservierungspflicht;18.05.2020
 Rheinland-Pfalz;Gastronomie;Eisdiele;eisdiele;1;Bewirtung nur an Tischen mit Reservierungspflicht;18.05.2020
 Rheinland-Pfalz;Gastronomie;Mensa / Kantine;kantine;1;nur eingeschränkte Kapazitäten erlaubt;18.05.2020
+Hessen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;19.05.2020
+Hessen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten;19.05.2020
+Hessen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hande waschen);19.05.2020
+Hessen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden;19.05.2020
+Hessen;Allgemeine Vorgaben;Einkaufen;einkaufen;1;Maske muss nicht beim Einkaufen getragen werden (test);19.05.2020
+Hessen;Sport;Schwimmbad;schwimmbad;;;19.05.2020
+Hessen;Sport;Freizeitsport;freizeit;;;19.05.2020
+Hessen;Sport;Fitnessstudio;fitness;;;19.05.2020
+Hessen;Sport;Kontaktsport;kontakt;;;19.05.2020
+Hessen;Sport;Wettbewerb;wettbewerb;;;19.05.2020
+Hessen;Kultur;Open Air;openair;;;19.05.2020
+Hessen;Kultur;Theater/ Oper;theater;;;19.05.2020
+Hessen;Kultur;Kinos;kino;;;19.05.2020
+Hessen;Kultur;Museen;museum;;;19.05.2020
+Hessen;Kultur;Gedenkstätten;gedenk;;;19.05.2020
+Hessen;Kultur;Burgen / Schloesser;burg;;;19.05.2020
+Hessen;Kultur;Zoos;zoo;;;19.05.2020
+Hessen;Kultur;Gottesdienste;gottesdienst;;;19.05.2020
+Hessen;Bildungseinrichtungen;Schulen;schule;;;19.05.2020
+Hessen;Bildungseinrichtungen;Universität;uni;;;19.05.2020
+Hessen;Bildungseinrichtungen;Fahrschulen;fahrschule;;;19.05.2020
+Hessen;Bildungseinrichtungen;Bibliothek;bibliothek;;;19.05.2020
+Hessen;Bildungseinrichtungen;Kitas;kita;;;19.05.2020
+Hessen;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;;;19.05.2020
+Hessen;Öffentliche Einrichtungen;Spielplatz;spielplatz;;;19.05.2020
+Hessen;Öffentliche Einrichtungen;Friedhöfe;friedhof;;;19.05.2020
+Hessen;Öffentliche Einrichtungen;Parks;park;;;19.05.2020
+Hessen;Gastronomie;Cafe;cafe;;;19.05.2020
+Hessen;Gastronomie;Restaurant;restaurant;;;19.05.2020
+Hessen;Gastronomie;Eisdiele;eisdiele;;;19.05.2020
+Hessen;Gastronomie;Mensa / Kantine;kantine;;;19.05.2020
+Baden-Württemberg;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;18.05.2020
+Baden-Württemberg;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten;18.05.2020
+Baden-Württemberg;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Haende waschen);18.05.2020
+Baden-Württemberg;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im OEPNV getragen werden;18.05.2020
+Baden-Württemberg;Allgemeine Vorgaben;Einkaufen;einkaufen;1;Maske muss beim Einkaufen getragen werden;18.05.2020
+Baden-Württemberg;Sport;Schwimmbad;schwimmbad;0;bis auf weiteres geschlossen;18.05.2020
+Baden-Württemberg;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten;18.05.2020
+Baden-Württemberg;Sport;Fitnessstudio;fitness;0;bis auf weiteres geschlossen;18.05.2020
+Baden-Württemberg;Sport;Kontaktsport;kontakt;1;unter strengen Auflagen;18.05.2020
+Baden-Württemberg;Sport;Wettbewerb;wettbewerb;1;unter strengen Auflagen;18.05.2020
+Baden-Württemberg;Kultur;Open Air;openair;1;Abstandsregeln befolgen;18.05.2020
+Baden-Württemberg;Kultur;Theater/ Oper;theater;0;Abstandsregeln befolgen;18.05.2020
+Baden-Württemberg;Kultur;Kinos;kino;0;bis auf weiteres geschlossen;18.05.2020
+Baden-Württemberg;Kultur;Museen;museum;1;Abstandsregeln befolgen;18.05.2020
+Baden-Württemberg;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen;18.05.2020
+Baden-Württemberg;Kultur;Burgen / Schloesser;burg;1;Abstandsregeln befolgen;18.05.2020
+Baden-Württemberg;Kultur;Zoos;zoo;1;Abstandsregeln befolgen;18.05.2020
+Baden-Württemberg;Kultur;Gottesdienste;gottesdienst;1;eingeschraenkte Teilnehmerzahl;18.05.2020
+Baden-Württemberg;Bildungseinrichtungen;Schulen;schule;0;bis auf weiteres geschlossen;18.05.2020
+Baden-Württemberg;Bildungseinrichtungen;Universität;uni;0;bis auf weiteres geschlossen;18.05.2020
+Baden-Württemberg;Bildungseinrichtungen;Fahrschulen;fahrschule;1;mit Mundschutz erlaubt;18.05.2020
+Baden-Württemberg;Bildungseinrichtungen;Bibliothek;bibliothek;1;eingeschraenkter Betrieb;18.05.2020
+Baden-Württemberg;Bildungseinrichtungen;Kitas;kita;1;reduzierter Regelbetrieb (maximal 50% der Kinder);18.05.2020
+Baden-Württemberg;√ñffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschraenkter Besuch;18.05.2020
+Baden-Württemberg;√ñffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen;18.05.2020
+Baden-Württemberg;√ñffentliche Einrichtungen;Friedhöfe;friedhof;1;Abstandsregeln befolgen;18.05.2020
+Baden-Württemberg;√ñffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen;18.05.2020
+Baden-Württemberg;Gastronomie;Cafe;cafe;1;Max. Angehörige zweier Haushalte ;18.05.2020
+Baden-Württemberg;Gastronomie;Restaurant;restaurant;1;Max. Angehörige zweier Haushalte ;18.05.2020
+Baden-Württemberg;Gastronomie;Eisdiele;eisdiele;1;Einhaltung der Abstandsregel;18.05.2020
+Baden-Württemberg;Gastronomie;Mensa / Kantine;kantine;1;Für Betriebsangehörige;18.05.2020
