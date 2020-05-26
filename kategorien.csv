@@ -1,23 +1,23 @@
 ﻿Bundesland;Kategorie;Name;technischer_name;Erlaubt;Zusatz;Stand
 Nordrhein-Westfalen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;13.05.20
-Nordrhein-Westfalen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten;13.05.20
-Nordrhein-Westfalen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen ((Hande waschen, Niesetikette);13.05.20
+Nordrhein-Westfalen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5m Abstand halten;13.05.20
+Nordrhein-Westfalen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hände waschen, Niesetikette);13.05.20
 Nordrhein-Westfalen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden;13.05.20
 Nordrhein-Westfalen;Allgemeine Vorgaben;Einkaufen;einkaufen;1;Maske muss beim Einkaufen getragen werden;13.05.20
-Nordrhein-Westfalen;Sport;Schwimmbad;schwimmbad;0;Hallenbäder ab 30.5. geoeffnet, Freibäder ab 20.05., reine Spaßbäder geschlossen;13.05.20
+Nordrhein-Westfalen;Sport;Schwimmbad;schwimmbad;0;Hallenbäder ab 30.5. geöffnet, Freibäder ab 20.05., reine Spaßbäder geschlossen;13.05.20
 Nordrhein-Westfalen;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten;13.05.20
 Nordrhein-Westfalen;Sport;Fitnessstudio;fitness;1;Hygieneregeln befolgen;13.05.20
 Nordrhein-Westfalen;Sport;Kontaktsport;kontakt;0;ab dem 30.5. erlaubt;13.05.20
 Nordrhein-Westfalen;Sport;Wettbewerb;wettbewerb;0;ab dem 30.5. erlaubt;13.05.20
 Nordrhein-Westfalen;Kultur;Open Air;openair;1;Konzerte und Theater bis max. 100 Personen;13.05.20
-Nordrhein-Westfalen;Kultur;Theater/ Oper;theater;0;ab dem 30.5. erlaubt;13.05.20
+Nordrhein-Westfalen;Kultur;Theater/Oper;theater;0;ab dem 30.5. erlaubt;13.05.20
 Nordrhein-Westfalen;Kultur;Kinos;kino;0;ab dem 30.5. erlaubt;13.05.20
 Nordrhein-Westfalen;Kultur;Museen;museum;1;ohne Führungen/Gruppen;13.05.20
 Nordrhein-Westfalen;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen;13.05.20
-Nordrhein-Westfalen;Kultur;Burgen / Schloesser;burg;1;Abstandsregeln befolgen;13.05.20
+Nordrhein-Westfalen;Kultur;Burgen/Schlösser;burg;1;Abstandsregeln befolgen;13.05.20
 Nordrhein-Westfalen;Kultur;Zoos;zoo;1;Abstandsregeln befolgen;13.05.20
 Nordrhein-Westfalen;Kultur;Gottesdienste;gottesdienst;1;eingeschränkte Teilnehmerzahl;13.05.20
-Nordrhein-Westfalen;Bildungseinrichtungen;Schulen;schule;1;Sonderregulungen fuer verschiedene Jahrgangsstufen;13.05.20
+Nordrhein-Westfalen;Bildungseinrichtungen;Schulen;schule;1;Sonderregelungen für verschiedene Jahrgangsstufen;13.05.20
 Nordrhein-Westfalen;Bildungseinrichtungen;Universität;uni;1;max. 100 Leute in einem Raum, aber findet meistens online statt;13.05.20
 Nordrhein-Westfalen;Bildungseinrichtungen;Fahrschulen;fahrschule;1;kein Mindestabstand notwendig;13.05.20
 Nordrhein-Westfalen;Bildungseinrichtungen;Bibliothek;bibliothek;1;eingeschränkter Betrieb;13.05.20
@@ -29,10 +29,10 @@ Nordrhein-Westfalen;Öffentliche Einrichtungen;Parks;park;1;Abstandsregeln befol
 Nordrhein-Westfalen;Gastronomie;Cafe;cafe;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;13.05.20
 Nordrhein-Westfalen;Gastronomie;Restaurant;restaurant;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;13.05.20
 Nordrhein-Westfalen;Gastronomie;Eisdiele;eisdiele;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;13.05.20
-Nordrhein-Westfalen;Gastronomie;Mensa / Kantine;kantine;1;Hygieneregeln befolgen;13.05.20
+Nordrhein-Westfalen;Gastronomie;Mensa/Kantine;kantine;1;Hygieneregeln befolgen;13.05.20
 Niedersachsen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;13.05.20
-Niedersachsen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5 m Abstand halten;17.05.20
-Niedersachsen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hande waschen, Niesetikette);17.05.20
+Niedersachsen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5m Abstand halten;17.05.20
+Niedersachsen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hände waschen, Niesetikette);17.05.20
 Niedersachsen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden;17.05.20
 Niedersachsen;Allgemeine Vorgaben;Einkaufen;einkaufen;1;Maske muss beim Einkaufen getragen werden;17.05.20
 Niedersachsen;Sport;Schwimmbad;schwimmbad;0;bis auf weiteres geschlossen;17.05.20
@@ -41,29 +41,29 @@ Niedersachsen;Sport;Fitnessstudio;fitness;0;bis auf weiteres geschlossen;17.05.2
 Niedersachsen;Sport;Kontaktsport;kontakt;0;bis auf weiteres verboten;17.05.20
 Niedersachsen;Sport;Wettbewerb;wettbewerb;0;bis auf weiteres verboten;17.05.20
 Niedersachsen;Kultur;Open Air;openair;0;bis auf weiteres verboten;17.05.20
-Niedersachsen;Kultur;Theater/ Oper;theater;0;bis auf weiteres geschlossen;17.05.20
+Niedersachsen;Kultur;Theater/Oper;theater;0;bis auf weiteres geschlossen;17.05.20
 Niedersachsen;Kultur;Kinos;kino;0;bis auf weiteres geschlossen;17.05.20
 Niedersachsen;Kultur;Museen;museum;1;Abstandsregeln befolgen;17.05.20
 Niedersachsen;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen;17.05.20
-Niedersachsen;Kultur;Burgen / Schloesser;burg;1;Abstandsregeln befolgen;17.05.20
+Niedersachsen;Kultur;Burgen/Schlösser;burg;1;Abstandsregeln befolgen;17.05.20
 Niedersachsen;Kultur;Zoos;zoo;1;Abstandsregeln befolgen;17.05.20
-Niedersachsen;Kultur;Gottesdienste;gottesdienst;1;eingeschraenkte Teilnehmerzahl;17.05.20
-Niedersachsen;Bildungseinrichtungen;Schulen;schule;1;Sonderregulungen fuer verschiedene Jahrgangsstufen;17.05.20
+Niedersachsen;Kultur;Gottesdienste;gottesdienst;1;eingeschränkte Teilnehmerzahl;17.05.20
+Niedersachsen;Bildungseinrichtungen;Schulen;schule;1;Sonderregelungen für verschiedene Jahrgangsstufen;17.05.20
 Niedersachsen;Bildungseinrichtungen;Universität;uni;1;max. 100 Leute in einem Raum, aber findet meistens online statt;17.05.20
 Niedersachsen;Bildungseinrichtungen;Fahrschulen;fahrschule;1;mit Mundschutz erlaubt;17.05.20
 Niedersachsen;Bildungseinrichtungen;Bibliothek;bibliothek;1;Abstandsregeln befolgen;17.05.20
 Niedersachsen;Bildungseinrichtungen;Kitas;kita;0;Notfallbetrieb hat weiter Bestand;17.05.20
-Niedersachsen;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschraenkter Besuch;17.05.20
+Niedersachsen;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschränkter Besuch;17.05.20
 Niedersachsen;Öffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen;17.05.20
 Niedersachsen;Öffentliche Einrichtungen;Friedhöfe;friedhof;1;Abstandsregeln befolgen;17.05.20
 Niedersachsen;Öffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen;17.05.20
 Niedersachsen;Gastronomie;Cafe;cafe;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;17.05.20
 Niedersachsen;Gastronomie;Restaurant;restaurant;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;17.05.20
 Niedersachsen;Gastronomie;Eisdiele;eisdiele;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;17.05.20
-Niedersachsen;Gastronomie;Mensa / Kantine;kantine;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;17.05.20
+Niedersachsen;Gastronomie;Mensa/Kantine;kantine;1;Max. 50% Auslastung, max 2 Haushalte pro Tisch;17.05.20
 Rheinland-Pfalz;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;18.05.20
 Rheinland-Pfalz;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5m Abstand halten;18.05.20
-Rheinland-Pfalz;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hande waschen, Niesetikette);18.05.20
+Rheinland-Pfalz;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hände waschen, Niesetikette);18.05.20
 Rheinland-Pfalz;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden;18.05.20
 Rheinland-Pfalz;Allgemeine Vorgaben;Einkaufen;einkaufen;1;Maske muss beim Einkaufen getragen werden;18.05.20
 Rheinland-Pfalz;Sport;Schwimmbad;schwimmbad;0;bis auf weiteres geschlossen;18.05.20
@@ -72,30 +72,30 @@ Rheinland-Pfalz;Sport;Fitnessstudio;fitness;0;bis auf weiteres geschlossen;18.05
 Rheinland-Pfalz;Sport;Kontaktsport;kontakt;0;bis auf weiteres verboten;18.05.20
 Rheinland-Pfalz;Sport;Wettbewerb;wettbewerb;0;bis auf weiteres verboten;18.05.20
 Rheinland-Pfalz;Kultur;Open Air;openair;;bis auf weiteres verboten;18.05.20
-Rheinland-Pfalz;Kultur;Theater/ Oper;theater;0;bis auf weiteres geschlossen;18.05.20
+Rheinland-Pfalz;Kultur;Theater/Oper;theater;0;bis auf weiteres geschlossen;18.05.20
 Rheinland-Pfalz;Kultur;Kinos;kino;0;bis auf weiteres geschlossen;18.05.20
 Rheinland-Pfalz;Kultur;Museen;museum;1;Abstandsregeln befolgen;18.05.20
 Rheinland-Pfalz;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen;18.05.20
-Rheinland-Pfalz;Kultur;Burgen / Schloesser;burg;1;Abstandsregeln befolgen;18.05.20
+Rheinland-Pfalz;Kultur;Burgen/Schlösser;burg;1;Abstandsregeln befolgen;18.05.20
 Rheinland-Pfalz;Kultur;Zoos;zoo;1;Abstandsregeln befolgen;18.05.20
 Rheinland-Pfalz;Kultur;Gottesdienste;gottesdienst;1;Teilnahme nur mit Anmeldung;18.05.20
-Rheinland-Pfalz;Bildungseinrichtungen;Schulen;schule;1;Sonderregulungen fuer verschiedene Jahrgangsstufen;18.05.20
+Rheinland-Pfalz;Bildungseinrichtungen;Schulen;schule;1;Sonderregelungen für verschiedene Jahrgangsstufen;18.05.20
 Rheinland-Pfalz;Bildungseinrichtungen;Universität;uni;1;max. 1 Person auf 10 qm, aber findet meistens online statt;18.05.20
 Rheinland-Pfalz;Bildungseinrichtungen;Fahrschulen;fahrschule;1;mit Mundschutz erlaubt;18.05.20
 Rheinland-Pfalz;Bildungseinrichtungen;Bibliothek;bibliothek;1;Abstandsregeln befolgen;18.05.20
 Rheinland-Pfalz;Bildungseinrichtungen;Kitas;kita;0;Notfallbetrieb hat weiter Bestand;18.05.20
-Rheinland-Pfalz;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschraenkter Besuch;18.05.20
+Rheinland-Pfalz;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschränkter Besuch;18.05.20
 Rheinland-Pfalz;Öffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen;18.05.20
 Rheinland-Pfalz;Öffentliche Einrichtungen;Friedhöfe;friedhof;1;Abstandsregeln befolgen;18.05.20
 Rheinland-Pfalz;Öffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen;18.05.20
 Rheinland-Pfalz;Gastronomie;Cafe;cafe;1;Bewirtung nur an Tischen mit Reservierungspflicht;18.05.20
 Rheinland-Pfalz;Gastronomie;Restaurant;restaurant;1;Bewirtung nur an Tischen mit Reservierungspflicht;18.05.20
 Rheinland-Pfalz;Gastronomie;Eisdiele;eisdiele;1;Bewirtung nur an Tischen mit Reservierungspflicht;18.05.20
-Rheinland-Pfalz;Gastronomie;Mensa / Kantine;kantine;1;nur eingeschränkte Kapazitäten erlaubt;18.05.20
+Rheinland-Pfalz;Gastronomie;Mensa/Kantine;kantine;1;nur eingeschränkte Kapazitäten erlaubt;18.05.20
 Hessen;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;19.05.20
 Hessen;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5m Abstand halten;19.05.20
-Hessen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hande waschen);19.05.20
-Hessen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im Ã–PNV getragen werden;19.05.20
+Hessen;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hände waschen, Niesetikette);19.05.20
+Hessen;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden;19.05.20
 Hessen;Allgemeine Vorgaben;Einkaufen;einkaufen;1;Maske muss beim Einkaufen getragen werden;19.05.20
 Hessen;Sport;Schwimmbad;schwimmbad;0;bis auf weiteres geschlossen;19.05.20
 Hessen;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten;19.05.20
@@ -103,19 +103,19 @@ Hessen;Sport;Fitnessstudio;fitness;1;Abstandsregeln befolgen;19.05.20
 Hessen;Sport;Kontaktsport;kontakt;0;Nur kontaktloser Vereinssport erlaubt;19.05.20
 Hessen;Sport;Wettbewerb;wettbewerb;0;bis auf weiteres geschlossen;19.05.20
 Hessen;Kultur;Open Air;openair;1;max. 100 Personen und Abstandregeln befolgen;19.05.20
-Hessen;Kultur;Theater/ Oper;theater;1;max. 100 Personen und Abstandregeln befolgen;19.05.20
+Hessen;Kultur;Theater/Oper;theater;1;max. 100 Personen und Abstandregeln befolgen;19.05.20
 Hessen;Kultur;Kinos;kino;1;max. 100 Personen und Abstandregeln befolgen;19.05.20
 Hessen;Kultur;Museen;museum;1;max. 100 Personen und Abstandregeln befolgen;19.05.20
 Hessen;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen;19.05.20
-Hessen;Kultur;Burgen / Schloesser;burg;1;Abstandsregeln befolgen;19.05.20
+Hessen;Kultur;Burgen/Schlösser;burg;1;Abstandsregeln befolgen;19.05.20
 Hessen;Kultur;Zoos;zoo;1;Abstandsregeln befolgen;19.05.20
-Hessen;Kultur;Gottesdienste;gottesdienst;1;eingeschraenkte Teilnehmerzahl;19.05.20
-Hessen;Bildungseinrichtungen;Schulen;schule;1;Sonderregulungen fuer verschiedene Jahrgangsstufen;19.05.20
+Hessen;Kultur;Gottesdienste;gottesdienst;1;eingeschränkte Teilnehmerzahl;19.05.20
+Hessen;Bildungseinrichtungen;Schulen;schule;1;Sonderregelungen für verschiedene Jahrgangsstufen;19.05.20
 Hessen;Bildungseinrichtungen;Universität;uni;0;Semester findet komplett online statt;19.05.20
 Hessen;Bildungseinrichtungen;Fahrschulen;fahrschule;1;mit Mundschutz erlaubt;19.05.20
 Hessen;Bildungseinrichtungen;Bibliothek;bibliothek;1;Abstandsregeln befolgen;19.05.20
-Hessen;Bildungseinrichtungen;Kitas;kita;1;eingeschraenkte Regelbetreuung;19.05.20
-Hessen;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschraenkter Besuch;19.05.20
+Hessen;Bildungseinrichtungen;Kitas;kita;1;eingeschränkte Regelbetreuung;19.05.20
+Hessen;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschränkter Besuch;19.05.20
 Hessen;Öffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen;19.05.20
 Hessen;Öffentliche Einrichtungen;Friedhöfe;friedhof;1;Abstandsregeln befolgen;19.05.20
 Hessen;Öffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen;19.05.20
@@ -126,7 +126,7 @@ Hessen;Gastronomie;Mensa / Kantine;kantine;1;Abstandsregeln befolgen und Erfassu
 Baden-Württemberg;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;18.05.20
 Baden-Württemberg;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5m Abstand halten;18.05.20
 Baden-Württemberg;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hände waschen, Niesetikette);18.05.20
-Baden-Württemberg;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNVPNV getragen werden;18.05.20
+Baden-Württemberg;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden;18.05.20
 Baden-Württemberg;Allgemeine Vorgaben;Einkaufen;einkaufen;1;Maske muss beim Einkaufen getragen werden;18.05.20
 Baden-Württemberg;Sport;Schwimmbad;schwimmbad;0;bis auf weiteres geschlossen;18.05.20
 Baden-Württemberg;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten;18.05.20
@@ -134,30 +134,30 @@ Baden-Württemberg;Sport;Fitnessstudio;fitness;0;bis auf weiteres geschlossen;18
 Baden-Württemberg;Sport;Kontaktsport;kontakt;1;unter strengen Auflagen;18.05.20
 Baden-Württemberg;Sport;Wettbewerb;wettbewerb;1;unter strengen Auflagen;18.05.20
 Baden-Württemberg;Kultur;Open Air;openair;1;Abstandsregeln befolgen;18.05.20
-Baden-Württemberg;Kultur;Theater/ Oper;theater;0;Abstandsregeln befolgen;18.05.20
+Baden-Württemberg;Kultur;Theater/Oper;theater;0;Abstandsregeln befolgen;18.05.20
 Baden-Württemberg;Kultur;Kinos;kino;0;bis auf weiteres geschlossen;18.05.20
 Baden-Württemberg;Kultur;Museen;museum;1;Abstandsregeln befolgen;18.05.20
 Baden-Württemberg;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen;18.05.20
-Baden-Württemberg;Kultur;Burgen / Schloesser;burg;1;Abstandsregeln befolgen;18.05.20
+Baden-Württemberg;Kultur;Burgen/Schlösser;burg;1;Abstandsregeln befolgen;18.05.20
 Baden-Württemberg;Kultur;Zoos;zoo;1;Abstandsregeln befolgen;18.05.20
-Baden-Württemberg;Kultur;Gottesdienste;gottesdienst;1;eingeschraenkte Teilnehmerzahl;18.05.20
+Baden-Württemberg;Kultur;Gottesdienste;gottesdienst;1;eingeschränkte Teilnehmerzahl;18.05.20
 Baden-Württemberg;Bildungseinrichtungen;Schulen;schule;0;bis auf weiteres geschlossen;18.05.20
 Baden-Württemberg;Bildungseinrichtungen;Universität;uni;0;bis auf weiteres geschlossen;18.05.20
 Baden-Württemberg;Bildungseinrichtungen;Fahrschulen;fahrschule;1;mit Mundschutz erlaubt;18.05.20
-Baden-Württemberg;Bildungseinrichtungen;Bibliothek;bibliothek;1;eingeschraenkter Betrieb;18.05.20
+Baden-Württemberg;Bildungseinrichtungen;Bibliothek;bibliothek;1;eingeschränkter Betrieb;18.05.20
 Baden-Württemberg;Bildungseinrichtungen;Kitas;kita;1;reduzierter Regelbetrieb (maximal 50% der Kinder);18.05.20
-Baden-Württemberg;√ñffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschraenkter Besuch;18.05.20
+Baden-Württemberg;√ñffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschränkter Besuch;18.05.20
 Baden-Württemberg;√ñffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen;18.05.20
 Baden-Württemberg;√ñffentliche Einrichtungen;Friedhöfe;friedhof;1;Abstandsregeln befolgen;18.05.20
 Baden-Württemberg;√ñffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen;18.05.20
 Baden-Württemberg;Gastronomie;Cafe;cafe;1;Max. Angehörige zweier Haushalte ;18.05.20
 Baden-Württemberg;Gastronomie;Restaurant;restaurant;1;Max. Angehörige zweier Haushalte ;18.05.20
 Baden-Württemberg;Gastronomie;Eisdiele;eisdiele;1;Einhaltung der Abstandsregel;18.05.20
-Baden-Württemberg;Gastronomie;Mensa / Kantine;kantine;1;Für Betriebsangehörige;18.05.20
+Baden-Württemberg;Gastronomie;Mensa/Kantine;kantine;1;Für Betriebsangehörige;18.05.20
 Bayern;Allgemeine Vorgaben;Maskenpflicht;maskenpflicht;1;Es besteht Maskenpflicht;20.05.20
 Bayern;Allgemeine Vorgaben;1,5m Abstand ;abstand;1;1,5m Abstand halten;20.05.20
 Bayern;Allgemeine Vorgaben;Hygiene Regeln;hygiene;1;Hygieneregeln befolgen (Hände waschen, Niesetikette);20.05.20
-Bayern;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im OEPNV getragen werden;20.05.20
+Bayern;Allgemeine Vorgaben;Öffentlicher Nahverkehr;bus;1;Maske muss im ÖPNV getragen werden;20.05.20
 Bayern;Allgemeine Vorgaben;Einkaufen;einkaufen;1;Maske muss beim Einkaufen getragen werden;20.05.20
 Bayern;Sport;Schwimmbad;schwimmbad;0;bis auf weiteres geschlossen;20.05.20
 Bayern;Sport;Freizeitsport;freizeit;1;Joggen, Radfahren und weitere Outdoor Sportarten;20.05.20
@@ -165,23 +165,23 @@ Bayern;Sport;Fitnessstudio;fitness;0;bis auf weiteres geschlossen;20.05.20
 Bayern;Sport;Kontaktsport;kontakt;0;bis auf weiteres verboten;20.05.20
 Bayern;Sport;Wettbewerb;wettbewerb;0;bis auf weiteres verboten;20.05.20
 Bayern;Kultur;Open Air;openair;0;bis auf weiteres verboten;20.05.20
-Bayern;Kultur;Theater/ Oper;theater;0;bis auf weiteres geschlossen;20.05.20
+Bayern;Kultur;Theater/Oper;theater;0;bis auf weiteres geschlossen;20.05.20
 Bayern;Kultur;Kinos;kino;0;bis auf weiteres geschlossen;20.05.20
 Bayern;Kultur;Museen;museum;1;nur mit Anmeldung;20.05.20
 Bayern;Kultur;Gedenkstätten;gedenk;1;Abstandsregeln befolgen;20.05.20
-Bayern;Kultur;Burgen / Schloesser;burg;1;Abstandsregeln befolgen;20.05.20
+Bayern;Kultur;Burgen/Schlösser;burg;1;Abstandsregeln befolgen;20.05.20
 Bayern;Kultur;Zoos;zoo;1;nur mit Anmeldung;20.05.20
-Bayern;Kultur;Gottesdienste;gottesdienst;1;eingeschraenkte Teilnehmerzahl und Teilnahme nur mit Anmeldung;20.05.20
-Bayern;Bildungseinrichtungen;Schulen;schule;1;Sonderregulungen fuer verschiedene Jahrgangsstufen;20.05.20
+Bayern;Kultur;Gottesdienste;gottesdienst;1;eingeschränkte Teilnehmerzahl und Teilnahme nur mit Anmeldung;20.05.20
+Bayern;Bildungseinrichtungen;Schulen;schule;1;Sonderregelungen für verschiedene Jahrgangsstufen;20.05.20
 Bayern;Bildungseinrichtungen;Universität;uni;0;nur Online Lehre;20.05.20
 Bayern;Bildungseinrichtungen;Fahrschulen;fahrschule;1;Mundschutz und max. 60 Min;20.05.20
-Bayern;Bildungseinrichtungen;Bibliothek;bibliothek;1;eingeschraenkter Betrieb;20.05.20
+Bayern;Bildungseinrichtungen;Bibliothek;bibliothek;1;eingeschränkter Betrieb;20.05.20
 Bayern;Bildungseinrichtungen;Kitas;kita;1;Notfallbetrieb hat weiter Bestand;20.05.20
-Bayern;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschraenkter Besuch;20.05.20
+Bayern;Öffentliche Einrichtungen;Krankenhaus;krankenhaus;1;eingeschränkter Besuch;20.05.20
 Bayern;Öffentliche Einrichtungen;Spielplatz;spielplatz;1;Abstandsregeln befolgen;20.05.20
 Bayern;Öffentliche Einrichtungen;Friedhöfe;friedhof;1;Abstandsregeln befolgen;20.05.20
 Bayern;Öffentliche Einrichtungen;Parks;park;1;Abstandsregeln befolgen;20.05.20
 Bayern;Gastronomie;Cafe;cafe;1;Max. Angehörige zweier Haushalte ;20.05.20
 Bayern;Gastronomie;Restaurant;restaurant;1;Max. Angehörige zweier Haushalte ;20.05.20
 Bayern;Gastronomie;Eisdiele;eisdiele;1;Einhaltung der Abstandsregel;20.05.20
-Bayern;Gastronomie;Mensa / Kantine;kantine;1;Für Betriebsangehörige;20.05.20
+Bayern;Gastronomie;Mensa/Kantine;kantine;1;Für Betriebsangehörige;20.05.20
