@@ -11,3 +11,5 @@ data is stored --> webcrawler-end
 starting webcrawler at 11:01, 26.05.2020
 Error occured
 Length mismatch: Expected axis has 6 elements, new values have 5 elements
+starting webcrawler at 11:01, 27.05.2020
+data is stored --> webcrawler-end
