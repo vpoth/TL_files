@@ -128,3 +128,5 @@ Error occured
 HTTPConnectionPool(host='www.rki.de', port=80): Max retries exceeded with url: /DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xb0f5e0f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
 starting webcrawler at 11:01, 23.07.2020
 data is stored --> webcrawler-end
+starting webcrawler at 11:01, 24.07.2020
+data is stored --> webcrawler-end
