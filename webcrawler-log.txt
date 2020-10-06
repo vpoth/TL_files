@@ -276,3 +276,5 @@ starting webcrawler at 11:01, 04.10.2020
 data is stored --> webcrawler-end
 starting webcrawler at 11:01, 05.10.2020
 data is stored --> webcrawler-end
+starting webcrawler at 11:01, 06.10.2020
+data is stored --> webcrawler-end
