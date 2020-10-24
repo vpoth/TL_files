@@ -313,3 +313,5 @@ data is stored --> webcrawler-end
 starting webcrawler at 11:01, 23.10.2020
 Error occured
 'NoneType' object has no attribute 'find'
+starting webcrawler at 11:01, 24.10.2020
+data is stored --> webcrawler-end
