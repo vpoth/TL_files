@@ -541,3 +541,5 @@ starting webcrawler at 11:01, 13.02.2021
 data is stored --> webcrawler-end
 starting webcrawler at 11:01, 14.02.2021
 data is stored --> webcrawler-end
+starting webcrawler at 11:01, 15.02.2021
+data is stored --> webcrawler-end
