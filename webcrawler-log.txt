@@ -1033,3 +1033,6 @@ Error occured
 starting webcrawler at 11:01, 02.08.2021
 Error occured
 'NoneType' object has no attribute 'split'
+starting webcrawler at 11:01, 05.08.2021
+Error occured
+'NoneType' object has no attribute 'split'
